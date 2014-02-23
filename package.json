@@ -9,5 +9,9 @@
     "express": "3.4.8",
     "jade": "*",
     "logfmt": "*"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benpierce23/LinkedForce.git"
+  },
 }
